@@ -1,6 +1,6 @@
-<img align="right" height="400" src="https://camo.githubusercontent.com/322607f2eb4d3fc0e6bfc73b02785351e7d884212a231a9332bcad2e0f7d5ff1/68747470733a2f2f696e6e6f76616363696f6e2e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f30392f4176617461725f4c582e706e67"  />
+<img align="center" height="400" src="https://camo.githubusercontent.com/322607f2eb4d3fc0e6bfc73b02785351e7d884212a231a9332bcad2e0f7d5ff1/68747470733a2f2f696e6e6f76616363696f6e2e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f30392f4176617461725f4c582e706e67"  />
 
-## Practicas relacionadas
+## Practicas
 
 | Modulo | Link     | Descripción |
 | :-------- | :------- | :-------- |
@@ -12,6 +12,4 @@
 ###
 
 - [@Orloxx23](https://www.github.com/Orloxx23)
-
-###
 
