@@ -3,9 +3,9 @@
 ## Practicas
 | Modulo | Link     | Descripción |
 | :-------- | :------- | :-------- |
-| Intro | [`🐱`](https://github.com/Orloxx23/Abogabot) | Intro - Microsoft LaunchX |
+| Intro | [`🐱`](https://github.com/Orloxx23/Abogabot) | Practica Intro - Microsoft LaunchX |
 | HTML | [`🐱`](https://github.com/Orloxx23/pasteleria) | Practica HTML - Microsoft LaunchX |
-| CSS | [`🐱`]() |  |
+| CSS | [`🐱`](https://github.com/Orloxx23/vaccination) | Practica CSS - Microsoft LaunchX |
 | JS | [`🐱`]() |  |
 ###
 
